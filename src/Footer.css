@@ -1,0 +1,12 @@
+.Foot{
+  background-color: black;
+  align-items: center;
+  align-content: center;
+}
+.f{
+  align-content: center;
+  align-self: center;
+  align-items: center;
+  font-weight: bold;
+  color: white;
+}
